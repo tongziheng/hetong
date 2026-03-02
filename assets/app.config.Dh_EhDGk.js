@@ -1,0 +1,1 @@
+const a="Contract.Pro",c="v1.0.0",t="20230615",n="专业电子合同签署平台",o="".concat(a,"是一款专业的电子合同签署工具，提供安全、高效、合法的电子签约服务。支持多种合同模板，实现快速创建、签署、管理电子合同。");function s(c=""){const t=""!=c?c:(new Date).getFullYear().toString();return"© ".concat(t," ").concat(a," 版权所有")}const e="".concat(a," 平台认证签署"),r="".concat(a," ").concat("v1.0.0");export{a as A,r as a,c as b,t as c,o as d,e,n as f,s as g};
